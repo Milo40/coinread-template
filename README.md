@@ -9,6 +9,6 @@ A pretty simple reproduction of the previously popular and [awwwards](https://ww
 
 ## Preview video (not the same version as this one)
 
-[![Preview video](https://github.com/Milo40/coinread-template/assets/33132706/98fdc3a7-3642-4790-8fa9-5abf5a7092fc)](https://youtu.be/ByDmqCN8ysE "Preview video")
+[![Preview video](https://img.youtube.com/vi/ByDmqCN8ysE/hqdefault.jpg)](https://youtu.be/ByDmqCN8ysE)
 
 > Hoping the real authors don't mind me reproducing their work and will not take this down, feel free to fork it and make it your own. And if you found it useful or relevant, please give it a star ⭐️, I would really appreciate it !
