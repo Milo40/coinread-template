@@ -5,10 +5,10 @@
 
 # Coinread Template
 
-A pretty simple reproduction of the previously popular and [awwwards](https://www.awwwards.com/sites/coinread) winning [Coinread](ramotion.com/coinread-web-app-and-branding/) crypto template by [Ramotion](https://github.com/ramotion). Implemented only with HTML, CSS and JS (JQuery).
+A pretty simple reproduction of the previously popular and [awwwards](https://www.awwwards.com/sites/coinread) winning [Coinread](https://www.ramotion.com/coinread-web-app-and-branding/) crypto template by [Ramotion](https://github.com/ramotion). Implemented only with HTML, CSS and JS (JQuery).
 
 ## Preview video (not the same version as this one)
 
-[![Preview video](https://img.youtube.com/vi/4Z3Zz8Qq5Zo/0.jpg)](https://youtu.be/ByDmqCN8ysE)
+[![Preview video](https://github.com/Milo40/coinread-template/assets/33132706/98fdc3a7-3642-4790-8fa9-5abf5a7092fc)](https://youtu.be/ByDmqCN8ysE)
 
 > Hoping the real authors don't mind me reproducing their work and will not take this down, feel free to fork it and make it your own. And if you found it useful or relevant, please give it a star ⭐️, I would really appreciate it !
